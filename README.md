@@ -4,8 +4,8 @@ This project is an old calculator.
 In this project I used my knowledge in:
 
 - JS Conditional if, else ... if, else.
-- JS function.
-- HTML input.
+- JS Function.
+- HTML Input.
 - Adobe Photoshop.
 
 How to use:
